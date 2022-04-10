@@ -7,6 +7,6 @@ This is a simple LCD Screen with pixel height for VR raves. There are two Meshes
 ![](./amplify-shader-graph.png)
 
 ## Examples
-![https://media.giphy.com/media/OV9h3juNShqkqRgSDJ/giphy-downsized-large.gif](https://media.giphy.com/media/OV9h3juNShqkqRgSDJ/giphy-downsized-large.gif)
+![Gif 1](https://giphy.com/gifs/OV9h3juNShqkqRgSDJ)
 
-![https://media.giphy.com/media/ZxHARBVcP7BZz0BYIH/giphy-downsized-large.gif](https://media.giphy.com/media/ZxHARBVcP7BZz0BYIH/giphy-downsized-large.gif)
+![Gif 2](https://giphy.com/embed/ZxHARBVcP7BZz0BYIH)
